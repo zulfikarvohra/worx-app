@@ -1,17 +1,22 @@
-import { AccountPage } from './../account/account';
-import { NotificationsPage } from './../notifications/notifications';
+import { MyprojectsPage } from './../myprojects/myprojects';
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
 import { MessengerPage } from '../messenger/messenger';
 import { BrowsePage } from '../browse/browse';
-import { MyprojectsPage } from '../myprojects/myprojects';
+import { NotificationsPage } from '../notifications/notifications';
+import { AccountPage } from '../account/account';
+
+
 
 @Component({
   selector: 'page-home',
   templateUrl: 'home.html'
 })
 export class HomePage {
-  tabs: Array<{title: string, component: any,icon:string}>;
+  tabs: Array<{title: string, component: any,icon:string, openTab?:any}>;
+
+  tab1 = MessengerPage;
+  tab2 = MyprojectsPage;
 
   constructor(public navCtrl: NavController) {
     this.tabs = [
@@ -25,6 +30,6 @@ export class HomePage {
   }
   // openTab(tab){
   //   console.log(tab);
-  //   this.navCtrl.setRoot(tab.component,{}, {animate: true, direction: 'forward'});
+  //   this.navCtrl.setRoot(tab.component,{openTab:tab.openTab}, {animate: true, direction: 'forward'});
   // }
 }
