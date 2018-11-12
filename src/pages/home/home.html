@@ -1,0 +1,16 @@
+<ion-header>
+  <ion-navbar  color="primary">
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Worx Systems</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding class="backgroundImg">
+
+</ion-content>
+<ion-tabs selectedIndex="2">
+  <ion-tab *ngFor="let t of tabs" [tabIcon]="t.icon" [tabTitle]="t.title" [root]="t.component"  ></ion-tab>
+</ion-tabs>
+

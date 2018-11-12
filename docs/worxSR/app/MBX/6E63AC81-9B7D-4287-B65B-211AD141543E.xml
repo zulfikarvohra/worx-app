@@ -1,0 +1,67 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="6E63AC81-9B7D-4287-B65B-211AD141543E" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="7">
+    <control controlID="E6269BD9-FEA1-46AB-89D5-D807FF883ABC" controlTypeID="Tabs" x="0" y="64" w="375" h="48" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="C2490E5A-BFEA-4F99-B0D9-BE7809470094" linkType="ltPageLink" isApplyIncludePage="False" title="List">
+          <area shape="0" alt="" ID="{481194C2-A8FC-4E3B-898D-8F91D9E3FE1A}" coords="(0,0,186.5,48)"/>
+        </link>
+        <link targetPageID="4BAC16AE-0091-4993-B3E7-9ED687F043F1" linkType="ltPageLink" isApplyIncludePage="False" title="Map">
+          <area shape="0" alt="" ID="{D0E44980-6191-43B0-9952-D58F1ADBC7B1}" coords="(187.5,0,374,48)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>List%2CMap</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="38345106-7F79-4036-B786-12E1A5673CFA" controlTypeID="Search" x="29" y="10" w="326" h="39" zOrder="1">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Search+Professionals+or+Jobs+</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4027665A-267C-4B3D-BFC2-ECA95665423B" controlTypeID="__group__" x="29" y="59" w="326" h="38" zOrder="2">
+      <groupChildrenDescriptors>
+        <control controlID="3E6978D5-57D3-4DEE-8450-7DB6C91DC3CF" controlTypeID="Button" x="0" y="0" w="158" h="38" zOrder="0">
+          <color>4278190335</color>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Professionals</text>
+          <textColor>4294967295</textColor>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="01AF84E0-8832-454A-A3A7-C23569EAC295" controlTypeID="Button" x="168" y="0" w="158" h="38" zOrder="1">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Jobs</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="25866D2B-7F44-44F9-993E-7402D52BB0A1" controlTypeID="Image" x="1" y="107" w="375" h="526" zOrder="3">
+      <URL>1C1C4E164E2A61D67978F5F5DB59FCE2.png</URL>
+    </control>
+    <control controlID="8362D32D-68CE-4E07-9E64-19B5E2F84893" controlTypeID="Icon" x="336" y="156" w="16" h="16" zOrder="4">
+      <color>4278190335</color>
+      <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="CF4089A0-62D7-42BB-A9F3-A33BA14D4A76" linkType="ltPageLink" isApplyIncludePage="False" title="Account">
+          <area shape="0" alt="" ID="{C7BD9A53-CAB2-4226-ACAE-E565E2EE8952}" coords="(0,0,16,16)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61733</iconCode>
+      </icon>
+      <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

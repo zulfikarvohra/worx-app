@@ -1,0 +1,33 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="EA20D1A8-9865-4686-AA2F-FADEE4BD286D" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="7">
+    <control controlID="0D673570-57BB-4F53-AE5D-EE0B8F643430" controlTypeID="Image" x="16" y="80" w="150" h="150" zOrder="0"/>
+    <control controlID="3853F316-6421-444D-BF31-7B0A015C044B" controlTypeID="Image" x="172" y="80" w="198" h="262" zOrder="1"/>
+    <control controlID="AAF77840-AB9E-45B7-973C-9A618D9C832F" controlTypeID="Image" x="17" y="234" w="149" h="108" zOrder="2"/>
+    <control controlID="99A9589F-40DB-4CBF-9858-6F9DCC12E09F" controlTypeID="Image" x="13" y="355" w="357" h="150" zOrder="3"/>
+    <control controlID="4CFEBDC3-3191-447B-A7B6-2D8568EC792C" controlTypeID="Image" x="13" y="516" w="357" h="150" zOrder="4"/>
+    <control controlID="A2EDAF85-80B1-4DFC-BA5F-F657854068B0" controlTypeID="Label" x="33" y="20" w="297" h="17" zOrder="5">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Account+Photos+controlled+by+subuscription+plan+</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="F4079D4A-F2F5-48D7-B887-92C6DA79A0F8" controlTypeID="Icon" x="-1" y="16" w="24" h="24" zOrder="6">
+      <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F940C768-BF09-4B36-A54F-4DF171B50419" linkType="ltPageLink" isApplyIncludePage="False" title="Profile">
+          <area shape="0" alt="" ID="{97F4E746-C54E-45B6-97CC-A4F00496F18E}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62154</iconCode>
+      </icon>
+      <URL>D95E480717200F895E41DB6E5B869596.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

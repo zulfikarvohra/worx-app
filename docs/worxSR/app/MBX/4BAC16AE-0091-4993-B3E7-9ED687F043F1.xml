@@ -1,0 +1,75 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="4BAC16AE-0091-4993-B3E7-9ED687F043F1" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="11">
+    <control controlID="12FF1BC3-12A6-4F03-B635-43E5850AC616" controlTypeID="Search" x="29" y="10" w="326" h="39" zOrder="0">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Search+Professionals+or+Jobs+</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="00444E0F-728D-44A9-B927-5C1C4E5799FD" controlTypeID="__group__" x="24" y="115" w="335" h="17" zOrder="1">
+      <groupChildrenDescriptors>
+        <control controlID="2ED2A540-9189-448D-8EF7-B71A2D79DDA8" controlTypeID="HSlider" x="61" y="3" w="274" h="14" zOrder="0"/>
+        <control controlID="023F91DB-EA8C-4239-8941-1FBFD555DCBB" controlTypeID="Label" x="0" y="0" w="43" h="17" zOrder="1">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Radius</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="A1243DC9-5C8E-4A4A-BAB5-1B1E934E94C2" controlTypeID="__group__" x="29" y="59" w="326" h="38" zOrder="2">
+      <groupChildrenDescriptors>
+        <control controlID="0B9640BE-72A3-4219-9C34-7E38DD87985B" controlTypeID="Button" x="0" y="0" w="158" h="38" zOrder="0">
+          <color>4278190335</color>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Professionals</text>
+          <textColor>4294967295</textColor>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="3881EA69-A5E1-4F72-804A-FA81EBC417B0" controlTypeID="Button" x="168" y="0" w="158" h="38" zOrder="1">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Jobs</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="9D579E99-CDA3-4060-B6D7-3034E1BB258B" controlTypeID="__group__" x="0" y="158" w="375" h="509" zOrder="3">
+      <groupChildrenDescriptors>
+        <control controlID="62F02569-E8D2-4E7A-9199-52BB1D334AD1" controlTypeID="Image" x="0" y="0" w="375" h="509" zOrder="0">
+          <URL>F5247E0FE94F621B515AA3CA2BC3928A.PNG</URL>
+        </control>
+        <control controlID="7F1B079A-7FDB-4929-A5FD-78B0E8B5F984" controlTypeID="Icon" x="328" y="17" w="37" h="37" zOrder="1">
+          <icon>
+            <ID/>
+            <iconFontName>jdIcoMoonFree</iconFontName>
+            <iconCode>59785</iconCode>
+          </icon>
+          <URL>B2AC941812CE74A32CB1963278C79196.svg</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="3D31C8FB-5CBE-4607-B077-3BC0C8AB0AEB" controlTypeID="Icon" x="0" y="18" w="24" h="24" zOrder="4">
+      <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="6E63AC81-9B7D-4287-B65B-211AD141543E" linkType="ltPageLink" isApplyIncludePage="False" title="Browse">
+          <area shape="0" alt="" ID="{6F44AC8D-5188-41F7-B954-144A75FA1595}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62154</iconCode>
+      </icon>
+      <URL>D95E480717200F895E41DB6E5B869596.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

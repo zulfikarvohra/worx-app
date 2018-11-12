@@ -1,0 +1,189 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="F2B6D279-B22F-4224-BEDD-9A5672C35886" platform="MtMobile" defaultW="375" defaultH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" measureW="375" measureH="667" clipArea="(0,0,0,0)">
+  <controls controlCount="25">
+    <control controlID="E3B5E95D-3DCA-4746-BE4F-23CA94013BE8" controlTypeID="Label" x="44" y="37" w="109" h="21" zOrder="0">
+      <font family="Arial" displayName="Arial+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Bid+Message</text>
+      <textColor>4284900966</textColor>
+      <textSize>18</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D370D297-9819-471B-AFF9-31189AE358E7" controlTypeID="Icon" x="10" y="35" w="24" h="24" zOrder="1">
+      <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="FFBEF9C8-7666-47EE-8EF0-49583B1047F3" linkType="ltPageLink" isApplyIncludePage="False" title="Job+Details">
+          <area shape="0" alt="" ID="{DEF84756-011B-4571-9F2E-EE135841B1AA}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62154</iconCode>
+      </icon>
+      <URL>D95E480717200F895E41DB6E5B869596.svg</URL>
+    </control>
+    <control controlID="A33C5FC8-7117-4C36-8B28-95588405CC1E" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="2">
+      <color>0</color>
+      <ForegroundColor>4278190080</ForegroundColor>
+      <IsAutoTextColor>False</IsAutoTextColor>
+    </control>
+    <control controlID="E64372EB-8252-412F-AE24-40237CC55F2B" controlTypeID="Icon" x="10" y="313" w="15" h="15" zOrder="3">
+      <color>4281545523</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62466</iconCode>
+      </icon>
+      <URL>00793058A11C58540A71BD3C2876DE89.svg</URL>
+    </control>
+    <control controlID="9AA9718F-AB3F-4961-8F05-6EB302149143" controlTypeID="Icon" x="10" y="426" w="15" h="15" zOrder="4">
+      <color>4281545523</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61686</iconCode>
+      </icon>
+      <URL>1A63F6023BD7E0A346D9A48736A46F8E.svg</URL>
+    </control>
+    <control controlID="54EC2E1A-159D-46EA-BA56-8F5A81893BF6" controlTypeID="Label" x="38" y="312" w="94" h="17" zOrder="5">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Today%2C+9%3A56+AM</text>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F2FE5AD5-AAE5-4901-8AFA-7729791FA16B" controlTypeID="Label" x="38" y="425" w="63" h="17" zOrder="6">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Add+notes</text>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="06129FD5-2DB1-4256-B27F-BB8BD6908D03" controlTypeID="Button" x="86" y="506" w="209" h="48" zOrder="7">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Sumbit+and+Notify+Employer</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="410C4394-9E5A-4CAB-8846-26BA7170A918" controlTypeID="DateTimePicker" x="199" y="353" w="156" h="25" zOrder="8">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>03+%2F+10+%2F+2014</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C6B5EB32-E35F-40B8-9F45-7193A15D1C48" controlTypeID="DateTimePicker" x="20" y="353" w="156" h="25" zOrder="9">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>03+%2F+10+%2F+2014</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="20CD2566-FCE7-4C8E-9263-B413604F3EF8" controlTypeID="Shape" x="11" y="134" w="344" h="66" zOrder="10">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Your+Message</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0CCE48CA-5EAF-41E8-84F2-19CC16FBC0F5" controlTypeID="Label" x="20" y="337" w="32" h="17" zOrder="11">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>From</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="84580CA1-4600-4038-AA6F-626FF046CEB0" controlTypeID="Label" x="196" y="337" w="14" h="17" zOrder="12">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>To</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2C137D0C-3DE6-4432-B27B-2B77EA4B91D1" controlTypeID="TextArea" x="10" y="82" w="345" h="52" zOrder="13">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Use+your+rate+or+estimate+Job+labor+cost%2C+Show+evidence+you+can+acheive+Job+within+Budget+and+timeframe</text>
+      <textColor>4288256409</textColor>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1CD652DE-EEAE-4EE7-A189-D527A2EDAE12" controlTypeID="__group__" x="10" y="205" w="160" h="22" zOrder="14">
+      <groupChildrenDescriptors>
+        <control controlID="F725E218-4352-453D-B05F-4419B2D4E524" controlTypeID="Label" x="32" y="5" w="128" h="17" zOrder="0">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Your+rate+is+$5.00%2FHr</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="CF9B447A-757E-4E01-9882-B0B8A03697C5" controlTypeID="Icon" x="0" y="0" w="22" h="22" zOrder="1">
+          <color>4278190284</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62307</iconCode>
+          </icon>
+          <URL>2B26C789AF3EFEA925A6893B9D4A201A.svg</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="3016083D-CE19-497F-8492-A32FF19F76E3" controlTypeID="__group__" x="10" y="239" w="330" h="22" zOrder="15">
+      <groupChildrenDescriptors>
+        <control controlID="87C6ADB8-6676-4453-B414-2F01C25FF3FE" controlTypeID="Label" x="32" y="0" w="175" h="17" zOrder="0">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Smart+Bid+calculated+by+App</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="BEF79DC0-550F-4A51-912B-19DB537BC1FC" controlTypeID="Label" x="225" y="4" w="105" h="17" zOrder="1">
+          <font family="Arial" displayName="Arial+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+          <text>$+52.00+-+$+75.00</text>
+          <lineSpacing>0</lineSpacing>
+          <textStyles>[fsBold]</textStyles>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="6652E074-D3E6-4F84-A6C8-A3D909E2810E" controlTypeID="Icon" x="0" y="0" w="22" h="22" zOrder="2">
+          <color>4278190335</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62307</iconCode>
+          </icon>
+          <URL>2B26C789AF3EFEA925A6893B9D4A201A.svg</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="F1DF9620-63FE-44C8-9B0C-190E9A0DBFEF" controlTypeID="__group__" x="10" y="271" w="345" h="24" zOrder="16">
+      <groupChildrenDescriptors>
+        <control controlID="38B783C0-699E-4CE1-88F8-C52ABBA87C7E" controlTypeID="NumericStepper" x="239" y="3" w="106" h="21" zOrder="0">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>3</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="FF987B1A-CBBB-4F31-98B5-F397BC131486" controlTypeID="Label" x="31" y="3" w="59" h="17" zOrder="1">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Your+Bids</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="592BC682-59CC-4365-99FC-39DC4EF0AD32" controlTypeID="Icon" x="0" y="0" w="21" h="21" zOrder="2">
+          <color>4278190335</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62307</iconCode>
+          </icon>
+          <URL>2B26C789AF3EFEA925A6893B9D4A201A.svg</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

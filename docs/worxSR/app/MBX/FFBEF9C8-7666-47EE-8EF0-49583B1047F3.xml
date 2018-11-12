@@ -1,0 +1,31 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="FFBEF9C8-7666-47EE-8EF0-49583B1047F3" platform="MtMobile" defaultW="375" defaultH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" measureW="375" measureH="667" clipArea="(0,0,0,0)">
+  <controls controlCount="3">
+    <control controlID="B2BE3745-B876-47F6-B634-E5CAEA7A09AF" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="0">
+      <color>0</color>
+      <ForegroundColor>4278190080</ForegroundColor>
+      <IsAutoTextColor>False</IsAutoTextColor>
+    </control>
+    <control controlID="E241346F-74FF-4D7F-A23C-6D7D196073EC" controlTypeID="Image" x="15" y="41" w="340" h="592" zOrder="1">
+      <URL>5B79AF197BAEFDB25A3F425A78099EF9.png</URL>
+    </control>
+    <control controlID="BCBE10F3-C799-4D7B-A949-7D095BBD39DB" controlTypeID="Icon" x="0" y="72" w="24" h="24" zOrder="2">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="8BE35B5F-3E8C-4BF7-9F54-0C1A124CDD2B" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{018AEBC1-8A35-4813-B6CE-69A713D2A85B}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62154</iconCode>
+      </icon>
+      <URL>D95E480717200F895E41DB6E5B869596.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

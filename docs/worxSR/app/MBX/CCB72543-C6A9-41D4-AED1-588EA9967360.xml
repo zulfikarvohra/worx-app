@@ -1,0 +1,128 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="CCB72543-C6A9-41D4-AED1-588EA9967360" platform="MtMobile" defaultW="375" defaultH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" measureW="375" measureH="667">
+  <controls controlCount="13">
+    <control controlID="595AFC49-4311-40F4-AE78-7F463BC8A0D5" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="0">
+      <color>0</color>
+      <ForegroundColor>4278190080</ForegroundColor>
+      <IsAutoTextColor>False</IsAutoTextColor>
+    </control>
+    <control controlID="6F2480BF-C722-4BD2-A7BC-16AFD6E9A32C" controlTypeID="Shape" x="34" y="88" w="308" h="491" zOrder="1">
+      <color>4280336476</color>
+      <borderVisible>False</borderVisible>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="44EC2954-F21E-4EFB-8F27-03E2AA7DD523" controlTypeID="Line" x="34" y="128" w="251" h="1" zOrder="2">
+      <color>4293190884</color>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(126,0)</controlPoint>
+      <startPoint>(0,0)</startPoint>
+      <endPoint>(251,0)</endPoint>
+    </control>
+    <control controlID="F2EEEE39-4AB8-4F5A-AADA-422710A699D1" controlTypeID="Line" x="300" y="148" w="42" h="1" zOrder="3">
+      <color>4293190884</color>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(22,0)</controlPoint>
+      <startPoint>(1,0)</startPoint>
+      <endPoint>(42,0)</endPoint>
+    </control>
+    <control controlID="F01F4580-A5AE-4AA7-92F8-D180484BE4AD" controlTypeID="Line" x="285" y="128" w="16" h="20" zOrder="4">
+      <color>4293190884</color>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(8,10)</controlPoint>
+      <startPoint>(0,0)</startPoint>
+      <endPoint>(16,20)</endPoint>
+    </control>
+    <control controlID="52BF7531-F3B3-411F-B182-3693184789FD" controlTypeID="Icon" x="56" y="94" w="24" h="24" zOrder="5">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62629</iconCode>
+      </icon>
+      <URL>6EE140726548992D82F763CCD21EF6A1.svg</URL>
+    </control>
+    <control controlID="672BC1CD-6F0E-4BC9-91CA-6A8104C22A47" controlTypeID="TextInput" x="90" y="94" w="195" h="29" zOrder="6">
+      <color>16777215</color>
+      <borderVisible>False</borderVisible>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Search</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2082673F-D27D-4966-96FF-8171B050EBD0" controlTypeID="Icon" x="298" y="101" w="24" h="24" zOrder="7">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontCustom</iconFontName>
+        <iconCode>61891</iconCode>
+      </icon>
+      <URL>D089C95F46277FE76D7FBB5ED8B88897.svg</URL>
+    </control>
+    <control controlID="912B80AC-9E55-45B8-A224-C35D8F268955" controlTypeID="IconLabel2" x="46" y="544" w="208" h="24" zOrder="8">
+      <groupChildrenDescriptors>
+        <control controlID="B8052301-83E3-4E55-B4F4-AF32C03D4513" controlTypeID="Shape" x="0" y="0" w="24" h="24" zOrder="0">
+          <canMove>False</canMove>
+          <alias>shape</alias>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="F0B32546-6099-4757-9F7A-DD4F2E51C8AF" controlTypeID="Icon" x="0" y="0" w="24" h="24" zOrder="1">
+          <color>4294967295</color>
+          <canMove>False</canMove>
+          <alias>icon</alias>
+          <icon>
+            <ID/>
+            <iconFontName>jdIcoFont</iconFontName>
+            <iconCode>58940</iconCode>
+          </icon>
+          <URL>F982658A8A644C12F668FC093FB2755A.svg</URL>
+        </control>
+        <control controlID="578F9A3F-96D8-44A6-B0D4-993ED62547E2" controlTypeID="Label" x="28" y="4" w="180" h="17" zOrder="2">
+          <canMove>False</canMove>
+          <alias>label</alias>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>++Only+notes+with+ToDo+inside</text>
+          <textColor>4294967295</textColor>
+          <textAlign>HaCenter</textAlign>
+          <textVAlign>VaTop</textVAlign>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="730F6924-4F33-42A6-8546-595F3600D53B" controlTypeID="Shape" x="195" y="0" w="13" h="12" zOrder="3">
+          <color>4294901760</color>
+          <borderVisible>False</borderVisible>
+          <canMove>False</canMove>
+          <alias>alarm</alias>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>2</text>
+          <textColor>4294967295</textColor>
+          <textSize>7</textSize>
+          <selectedIndex>-1</selectedIndex>
+          <radius>100</radius>
+          <radiusIsPercent>True</radiusIsPercent>
+        </control>
+      </groupChildrenDescriptors>
+      <textDirection>MiTextRight</textDirection>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4291348682</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

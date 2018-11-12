@@ -1,0 +1,26 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="ED963C19-83CD-4DAD-A318-77EA66F7A5B7" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="2">
+    <control controlID="E6547020-63F4-457C-93A2-CCE65B8A7F11" controlTypeID="Image" x="0" y="0" w="375" h="667" zOrder="0">
+      <URL>2E8BC994FA10F402A654FFF5805C989C.png</URL>
+    </control>
+    <control controlID="994BFFA0-D77D-42FD-834F-BC0AA8FF8C2B" controlTypeID="Icon" x="20" y="42" w="24" h="24" zOrder="1">
+      <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="EEFEBE1F-0462-4BA2-8241-636C7352EAC8" linkType="ltPageLink" isApplyIncludePage="False" title="Messages">
+          <area shape="0" alt="" ID="{3E70F2B7-D796-4D17-A547-A6661A48ED14}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62154</iconCode>
+      </icon>
+      <URL>D95E480717200F895E41DB6E5B869596.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

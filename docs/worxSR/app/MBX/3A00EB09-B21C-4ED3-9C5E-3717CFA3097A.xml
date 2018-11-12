@@ -1,0 +1,73 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="3A00EB09-B21C-4ED3-9C5E-3717CFA3097A" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="6">
+    <control controlID="8D99086B-8DC9-43C4-989D-C2AF5C35E037" controlTypeID="Image" x="0" y="0" w="375" h="540" zOrder="0">
+      <URL>1BC534A41FFACAA383D7EA5C52A91BB9.png</URL>
+    </control>
+    <control controlID="ED6ADBF9-924A-4E03-A025-45E1F12031CC" controlTypeID="Button" x="26" y="25" w="142" h="48" zOrder="1">
+      <color>4284901119</color>
+      <borderVisible>False</borderVisible>
+      <font family="Arial" displayName="Arial+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>My+Jobs</text>
+      <textColor>4294967295</textColor>
+      <textSize>24</textSize>
+      <textAlign>HaLeft</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="BAA7D24F-25C4-4764-B34F-417D68BF51A8" controlTypeID="Button" x="119" y="146" w="67" h="33" zOrder="2">
+      <borderVisible>False</borderVisible>
+      <font family="Arial" displayName="Arial+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Jobs</text>
+      <textSize>10</textSize>
+      <textAlign>HaLeft</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3CCDC92A-ABAE-493F-B92B-19727C276CFA" controlTypeID="Button" x="35" y="82" w="320" h="33" zOrder="3">
+      <color>4278229452</color>
+      <borderVisible>False</borderVisible>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Employer+-+All+Jobs+Filter</text>
+      <textColor>4294967295</textColor>
+      <textSize>12</textSize>
+      <textAlign>HaLeft</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6E87CD52-0BDE-4A72-AEFF-F06250A9A956" controlTypeID="Icon" x="322" y="444" w="24" h="24" zOrder="4">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D45E41EE-EAB9-4972-B696-B96325208D45" linkType="ltPageLink" isApplyIncludePage="False" title="Add+New+Job">
+          <area shape="0" alt="" ID="{7FC4AC40-F727-4859-9DF5-EC3FFEA0C953}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62601</iconCode>
+      </icon>
+      <URL>684CEEAB35D8E73FB7B429D4451E5C83.svg</URL>
+    </control>
+    <control controlID="296E84A1-0900-4DA5-B51B-E17417443741" controlTypeID="Shape" x="20" y="190" w="345" h="94" zOrder="5">
+      <color>16777215</color>
+      <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="FFBEF9C8-7666-47EE-8EF0-49583B1047F3" linkType="ltPageLink" isApplyIncludePage="False" title="View+Job+Details">
+          <area shape="0" alt="" ID="{18F5E823-1EC3-4B95-9E87-4C8D81EDA593}" coords="(0,0,345,94)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

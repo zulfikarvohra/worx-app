@@ -1,0 +1,56 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="3F618A98-D332-455E-ACA9-FE51B7E7F433" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="5">
+    <control controlID="199ADB00-12FB-4BD2-B3D7-FEE4D2F93C7C" controlTypeID="Label" x="36" y="35" w="108" h="21" zOrder="0">
+      <font family="Arial" displayName="Arial+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Notifications</text>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="AF48B986-F2D6-4313-B1D8-979A8D4AB0B2" controlTypeID="Image" x="20" y="117" w="328" h="407" zOrder="1">
+      <URL>0A3DFAF74E4CBBDC773D616754F9415E.png</URL>
+      <fitMode>fmFill</fitMode>
+    </control>
+    <control controlID="8AECC6DA-C6AF-4654-9B15-A3A7421DA9F0" controlTypeID="TextArea" x="25" y="66" w="340" h="41" zOrder="2">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>New+Jobs+as+per+your+Professional+and+Skills+and+limited+to+your+subscription+boundary+in+your+Area</text>
+      <textColor>4291611852</textColor>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5A6CC33C-E0A3-4933-897C-69B3C4CE04E2" controlTypeID="Icon" x="309" y="163" w="13" h="13" zOrder="3">
+      <color>4278190335</color>
+      <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F2B6D279-B22F-4224-BEDD-9A5672C35886" linkType="ltPageLink" isApplyIncludePage="False" title="Detail">
+          <area shape="0" alt="" ID="{B494DB20-E4EA-4393-80E4-9DCB1D14E2A2}" coords="(0,0,13,13)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61733</iconCode>
+      </icon>
+      <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
+    </control>
+    <control controlID="68DA725C-AB89-4BBB-8BEE-AA63F158A9E1" controlTypeID="Icon" x="2" y="32" w="24" h="24" zOrder="4">
+      <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="8BE35B5F-3E8C-4BF7-9F54-0C1A124CDD2B" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{D6BA2B19-CCE5-4E9A-A08E-AEAB213D2EA3}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62154</iconCode>
+      </icon>
+      <URL>D95E480717200F895E41DB6E5B869596.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

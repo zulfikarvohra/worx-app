@@ -1,0 +1,71 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="CCEB6860-DD8F-4DBB-B5FC-AD562BCC9197" platform="MtMobile" defaultW="375" defaultH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" measureW="375" measureH="667" clipArea="(0,0,0,0)">
+  <controls controlCount="7">
+    <control controlID="F48C0819-EBA3-414E-B930-02445E70ACE2" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="0">
+      <color>0</color>
+      <ForegroundColor>4278190080</ForegroundColor>
+      <IsAutoTextColor>False</IsAutoTextColor>
+    </control>
+    <control controlID="88C1B15F-C290-4415-9CDE-F9EE4A38DAC9" controlTypeID="Label" x="36" y="305" w="295" h="17" zOrder="1">
+      <font family="Lato" displayName="Lato+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Add+Craft%2C+Get+Opportunities%2C+and+Make+Money</text>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A64D0648-4C28-47A0-A561-2369946C63FD" controlTypeID="Label" x="130" y="243" w="111" h="40" zOrder="2">
+      <font family="Calibri" displayName="Calibri+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Worx+SR</text>
+      <textSize>32</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E7E8EDEB-664C-4DA7-98D4-79CA5469B64C" controlTypeID="Button" x="98" y="358" w="172" h="46" zOrder="3">
+      <color>4294923831</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="0D7F933B-DBAC-4F7C-A7CD-68DDB387EB66" linkType="ltPageLink" isApplyIncludePage="False" title="Sign+Up">
+          <area shape="0" alt="" ID="{1E9A9C4E-A89D-438F-B10B-970CF384A597}" coords="(0,0,172,46)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>CREATE+ACCOUNT</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D2EE68B2-0CF5-4837-8FFF-9D39DAF37E65" controlTypeID="Label" x="10" y="640" w="43" h="17" zOrder="4">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Try+out</text>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="ED176922-6E00-48AD-9CA0-00B607F8508F" controlTypeID="Label" x="317" y="640" w="41" h="17" zOrder="5">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="05EBF700-18C2-42B6-857B-0420A7A9F815" linkType="ltPageLink" isApplyIncludePage="False" title="Log+In">
+          <area shape="0" alt="" ID="{882BF7B5-AEAC-45E4-92E0-A4A32E6826D3}" coords="(0,0,41,17)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Log+in</text>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CA818D9B-FC03-4B64-8825-2C9A74605477" controlTypeID="Image" x="114" y="97" w="156" h="136" zOrder="6">
+      <URL>3D89EA5187B1481C0CA1EC53550B8A6B.png</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
