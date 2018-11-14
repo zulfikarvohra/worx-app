@@ -33,19 +33,19 @@
       </ion-col>
     </ion-row>
     <div class="login-box">
-      <form #registerForm="ngForm">
+      <form #f="ngForm" (ngSubmit)="onSignIn(f)">
         <ion-row>
           <ion-col>
             <ion-list inset>
 
               <ion-item>
                   <ion-label> <ion-icon name="mail" color="primary"></ion-icon></ion-label>
-                <ion-input type="text" placeholder="Email" name="email"  required></ion-input>
+                <ion-input type="text" placeholder="Email" ngModel name="email"  required></ion-input>
               </ion-item>
 
               <ion-item>
                   <ion-label> <ion-icon name="key"  color="primary"></ion-icon></ion-label>
-                <ion-input type="password" placeholder="Password" name="password"  required></ion-input>
+                <ion-input type="password" placeholder="Password" ngModel name="password" [minlength]="6"  required></ion-input>
               </ion-item>
 
             </ion-list>
@@ -54,7 +54,7 @@
 
         <ion-row>
           <ion-col class="signup-col">
-            <button ion-button  size="large" round  full  [disabled]="!registerForm.form.valid" (click)="navigateToHome()">Login</button>
+            <button ion-button  size="large" round type="submit"  full  [disabled]="!f.valid" >Login</button>
             <button ion-button class="register-btn" block clear >Create New Account</button>
           </ion-col>
         </ion-row>
